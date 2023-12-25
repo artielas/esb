@@ -10,6 +10,7 @@ p {
   border-bottom: 2px solid #d1d1d1;
   text-align: center;
   padding: 10px;
+  position: fixed;
 }
 a:link {
   color: slateblue;
