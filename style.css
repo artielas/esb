@@ -15,6 +15,9 @@ header {
   width: 99%;
   overflow: hidden;
 }
+footer {
+  font-style: italic;
+}
 a:link {
   color: slateblue;
 }
