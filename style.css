@@ -17,6 +17,9 @@ header {
 }
 footer {
   font-style: italic;
+  position: absolute;
+  bottom: 0;
+  width: 99%;
 }
 a:link {
   color: slateblue;
