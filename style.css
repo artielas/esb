@@ -13,9 +13,9 @@ p {
   padding: 10px;
   position: fixed;
   top: 0px;
-  z-index: 1px;
-  height: 100vh;
-  padding: 0;
+  width: 100%;
+  overflow: hidden;
+  height: 200px;
 }
 a:link {
   color: slateblue;
