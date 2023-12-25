@@ -9,8 +9,10 @@ p {
 .header {
   border-bottom: 2px solid #d1d1d1;
   text-align: center;
+  background-color: black;
   padding: 10px;
   position: fixed;
+  top: 0px;
 }
 a:link {
   color: slateblue;
