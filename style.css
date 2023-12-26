@@ -6,6 +6,9 @@ body {
 p {
   font-family: sans-serif;
 }
+li {
+  font-family: sans-serif;
+}
 header {
   border-bottom: 2px solid #d1d1d1;
   text-align: center;
