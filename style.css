@@ -23,6 +23,8 @@ footer {
   bottom: 0px;
   width: 99%;
   margin-top: 50px;
+  display: flex;
+  flex-direction: column;
 }
 a:link {
   color: dodgerblue;
