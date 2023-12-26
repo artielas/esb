@@ -16,11 +16,12 @@ header {
   overflow: hidden;
 }
 footer {
+  background-color: black;
   font-style: italic;
   border-top: 2px solid #d1d1d1;
-  position: absolute;
+  position: relative;
   bottom: 0;
-  width: 98%;
+  width: 95%;
   margin-top: 50px;
 }
 a:link {
