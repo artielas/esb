@@ -13,16 +13,16 @@ header {
   background-color: black;
   position: sticky;
   top: 0px;
-  width: 100%;
+  width: 99%;
   overflow: hidden;
 }
 footer {
   background-color: black;
   font-style: italic;
   border-top: 2px solid #d1d1d1;
-  position: relative;
+  position: absolute;
   bottom: 0;
-  width: 100%;
+  width: 99%;
   margin-top: 50px;
 }
 a:link {
