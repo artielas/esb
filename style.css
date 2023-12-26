@@ -12,7 +12,7 @@ header {
   background-color: black;
   position: sticky;
   top: 0px;
-  width: 99%;
+  width: 100%;
   overflow: hidden;
 }
 footer {
@@ -21,7 +21,7 @@ footer {
   border-top: 2px solid #d1d1d1;
   position: relative;
   bottom: 0px;
-  width: 99%;
+  width: 100%;
   margin-top: 50px;
   text-align: center;
 }
